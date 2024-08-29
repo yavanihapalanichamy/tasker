@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(200, 239, 145);
+}
+.firstpage{
+display: flex;
+flex-direction: row;
+
+}
+.checkbox{
+    display: flex;
+}
+.welcomepage{
+    margin-top: 100px;
+    border: 1px solid ;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding: 100px;
+    margin-bottom: 100px;
+    background-color: blanchedalmond;
+    height: 400px;
+    width: 400px;
+}
+button{
+    margin-left: 50px;
+    background-color: rgb(244, 189, 88);
+    color: white;
+}
+img{
+   
+}
